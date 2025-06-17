@@ -66,7 +66,7 @@ Thank you for your interest in contributing to Claude Code Base Action! This doc
 
 ## Pull Request Process
 
-1. Create a new branch from `main`:
+1. Create a new branch from `develop`:
 
    ```bash
    git checkout -b feature/your-feature-name
